@@ -79,6 +79,7 @@ function uselessWebButton( button, popup ) {
 		['http://tomsdog.com/',                                       false, 1],
 		['http://hardcoreprawnlawn.com/',                             false, 1],
 		['http://www.omfgdogs.com/',                                  false, 7],
+		['http://thefo.nz/',                                          false, 7],
 	];
 
 	var sites = null;
