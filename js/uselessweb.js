@@ -81,7 +81,8 @@ function uselessWebButton( button, popup ) {
 		['http://www.omfgdogs.com/',                                  false],
 		['http://thefo.nz/',                                          false],
 		['http://oct82.com/',                                         false],
-		['http://semanticresponsiveillustration.com/',                true]
+		['http://semanticresponsiveillustration.com/',                true],
+		['http://coffeeorpotty.com',                                  false]
 	];
 
 	var sites = null;
